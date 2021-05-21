@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#main{
+  background-color: whitesmoke;
+  text-align: center;
+  width: 80%;
+  height: 400px;
+  margin: auto;
+  margin-top:50px ;
+  padding: 50px;
+  box-shadow: 0 5px 0 black;
+}
+.title{
+  padding-bottom:30px ;
+  padding-top: 10px;
+}

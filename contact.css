@@ -1,0 +1,39 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#footer{
+  background-color: black;
+  height: 500px;
+  width: 100%;
+  margin: auto;
+  margin-top: 50px;
+}
+x
+.options{
+  height: 400px;
+  display: flex;
+  justify-content: center;
+}
+.copyright{
+  border-top: 0.5px solid white;
+  opacity: 0.5;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+p{
+  color: white;
+  text-align: center;
+
+}
+div{
+  margin: 30px 0 30px ;
+}
+.options{
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.copyright p{
+  margin-top: 40px;
+}
