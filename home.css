@@ -64,7 +64,7 @@ ul{
 section{
   color: white;
   background-color: black;
-  height: 500px;
+  height: 700px;
   text-align: center;
   width: 90%;
   margin: auto;
@@ -76,17 +76,12 @@ h4{
 }
 h1{
   margin-top: 20px;
+  margin-bottom: 50px;
 }
 .footer{
   margin-top: 30px;
 }
-#footer{
-  background-color: black;
-  height: 500px;
-  width: 90%;
-  margin: auto;
-  margin-top: 50px;
-}
+
 .options{
   height: 400px;
   display: flex;
@@ -103,12 +98,9 @@ p{
   text-align: center;
   width: 80%;
   margin: auto;
-  margin-top: 50px;
 }
 
-div{
-  margin: 30px 0 30px ;
-}
+
 .options{
   display: flex;
   justify-content: center;

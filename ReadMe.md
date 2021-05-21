@@ -4,7 +4,7 @@
 ----
 
 ### Description
-This came about tpo help homeless animals get new home, We link up Dogs, cats get new homes.
+This came about to help homeless animals get new home, We link up Dogs, cats get new homes.
 
 ---
 
@@ -35,7 +35,7 @@ Email: [dogshelter@me.com](mailto:dogshelter@me.com)
 ---
 ### Licence & Copyright
 
-[MIT](LICENCE)
+[MIT](#)
 
 
 
